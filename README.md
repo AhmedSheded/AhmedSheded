@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Farag Sheded</h1>
-<h3 align="center">Machine learning & Backend Engineer from Egypt</h3>
+<h3 align="center">Machine learning | Computer vision Engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsheded&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsheded" /> </p>
 
