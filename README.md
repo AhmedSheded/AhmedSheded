@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsheded&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsheded" /> </p>
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
+- [See my Resume](https://drive.google.com/file/d/1-wxxRe4uPKNrdRQSJgbdX9H08DBK78dO/view?usp=share_link)
 
 - 📫 How to reach me **sheded222@gmail.com**
 
