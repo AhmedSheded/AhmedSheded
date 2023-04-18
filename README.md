@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
 - See my [Resume](https://drive.google.com/file/d/1-wxxRe4uPKNrdRQSJgbdX9H08DBK78dO/view?usp=share_link)
-- <a href="https://drive.google.com/file/d/1-wxxRe4uPKNrdRQSJgbdX9H08DBK78dO/view?usp=share_link" target="_blank">Resume</a>
 
 - 📫 How to reach me **sheded222@gmail.com**
 
