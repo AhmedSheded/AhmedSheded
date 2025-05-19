@@ -1,14 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ahmed Farag Sheded</h1>
-<h3 align="center">AI & Machine Learning Enthusiast from Egypt</h3>
+# Hi 👋, I'm Ahmed Farag Sheded
+### AI & Machine Learning Enthusiast from Egypt
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedsheded&label=Profile%20Views&color=0e75b6&style=flat" alt="ahmedsheded" />
 </p>
 
+## About Me
+I'm a passionate AI and Machine Learning professional based in Egypt, with a strong foundation in developing intelligent systems and data-driven solutions. My expertise spans Python, Java, and web technologies, with a focus on leveraging frameworks like TensorFlow, Keras, and Scikit-Learn to solve real-world problems. Currently, I'm working at **Rentup Egypt**, where I contribute to innovative property management solutions by integrating AI to enhance operational efficiency and user experience. I thrive on tackling complex challenges, from building predictive models to designing scalable web applications. In my spare time, I enjoy exploring new ML algorithms, contributing to open-source projects, and sharing knowledge through platforms like Kaggle and GitHub.
+
 - 🔍 Explore my [Resume](https://flowcv.com/resume/j3gsidnvu0)
 - 📧 Reach me at **AhmedFsheded@gmail.com**
+- 💼 Current Role: **AI/ML Engineer at Rentup Egypt**, developing AI-powered tools to streamline property management processes and improve decision-making for landlords and tenants.
 
-<h3 align="left">Connect with Me:</h3>
+## Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/ahmedsheded" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
@@ -27,7 +31,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages:</h3>
+## Languages
 <p align="left">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
@@ -46,7 +50,7 @@
   </a>
 </p>
 
-<h3 align="left">Frameworks:</h3>
+## Frameworks
 <p align="left">
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40" />
@@ -71,7 +75,7 @@
   </a>
 </p>
 
-<h3 align="left">Libraries & Tools:</h3>
+## Libraries & Tools
 <p align="left">
   <a href="https://opencv.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
@@ -105,7 +109,7 @@
   </a>
 </p>
 
-<h3 align="left">Databases:</h3>
+## Databases
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
@@ -121,7 +125,7 @@
   </a>
 </p>
 
-<h3 align="left">Stats:</h3>
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsheded&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
