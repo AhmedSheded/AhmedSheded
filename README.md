@@ -1,137 +1,186 @@
-# Hi 👋, I'm Ahmed Farag Sheded
-### AI & Machine Learning Enthusiast from Egypt
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedsheded&label=Profile%20Views&color=0e75b6&style=flat" alt="ahmedsheded" />
-</p>
+# Ahmed Farag Sheded
+
+### AI & Machine Learning Engineer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Enthusiast;Building+Intelligent+Systems;Turning+Data+into+Solutions)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=ahmedsheded&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
 
 ## About Me
-I'm a passionate AI and Machine Learning professional based in Egypt, with a strong foundation in developing intelligent systems and data-driven solutions. My expertise spans Python, Java, and web technologies, with a focus on leveraging frameworks like TensorFlow, Keras, and Scikit-Learn to solve real-world problems. Currently, I'm working at **Rentup Egypt**, where I contribute to innovative property management solutions by integrating AI to enhance operational efficiency and user experience. I thrive on tackling complex challenges, from building predictive models to designing scalable web applications. In my spare time, I enjoy exploring new ML algorithms, contributing to open-source projects, and sharing knowledge through platforms like Kaggle and GitHub.
 
-- 🔍 Explore my [Resume](https://flowcv.com/resume/j3gsidnvu0)
-- 📧 Reach me at **AhmedFsheded@gmail.com**
-- 💼 Current Role: **AI/ML Engineer at Rentup Egypt**, developing AI-powered tools to streamline property management processes and improve decision-making for landlords and tenants.
+AI/ML Engineer at **Rentup Egypt**, where I develop intelligent systems that transform property management through AI-powered solutions. I specialize in building end-to-end machine learning pipelines, from data preprocessing to deployment, with a focus on computer vision and deep learning applications.
 
-## Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/ahmedsheded" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://kaggle.com/ahmedsheded" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="40" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/ahmedsheded" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/ahmedfsheded" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  <a href="https://www.facebook.com/eng.Ahmed.Sheded" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="40" width="40" />
-  </a>
-</p>
+```python
+class AhmedSheded:
+    def __init__(self):
+        self.role = "AI/ML Engineer"
+        self.company = "Rentup Egypt"
+        self.location = "Egypt"
+        self.focus_areas = ["Deep Learning", "Computer Vision", "MLOps"]
 
-## Languages
-<p align="left">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
-  </a>
-</p>
+    def current_work(self):
+        return "Building AI-powered property management solutions"
+```
 
-## Frameworks
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
-  </a>
-  <a href="https://keras.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
-  </a>
-  <a href="https://palletsprojects.com/p/flask/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-## Libraries & Tools
-<p align="left">
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-</p>
+### Quick Facts
 
-## Databases
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
-  </a>
-</p>
+- Working on AI tools for property management
+- Exploring advanced neural architectures
+- Building with TensorFlow & Keras
+- Open to collaborations on ML projects
 
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsheded&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</td>
+<td width="50%">
+
+### Get In Touch
+
+- [Resume](https://flowcv.com/resume/j3gsidnvu0)
+- [Email](mailto:AhmedFsheded@gmail.com)
+- [LinkedIn](https://linkedin.com/in/ahmedsheded)
+- [Kaggle](https://kaggle.com/ahmedsheded)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Dogs vs Cats Classifier
+CNN-based image classification using TensorFlow/Keras with hyperparameter tuning and TensorBoard integration.
+
+**Tech:** `TensorFlow` `Keras` `OpenCV` `CNN`
+
+</td>
+<td width="50%">
+
+### Neural Style Transfer
+Artistic style transfer using Google's Magenta model from TensorFlow Hub.
+
+**Tech:** `TensorFlow Hub` `OpenCV` `Deep Learning`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedSheded&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</details>
+
+<details open>
+<summary><b>AI / ML Frameworks</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsheded&theme=radical" alt="Contribution Streak" />
+</details>
+
+<details open>
+<summary><b>Web Frameworks</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
+</details>
+
+<details open>
+<summary><b>Data Science & Tools</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+</p>
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+</details>
+
+<details open>
+<summary><b>DevOps & Tools</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+</details>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedsheded&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsheded&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsheded&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="Contribution Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsheded&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedsheded)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ahmedsheded)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ahmedsheded)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmedfsheded)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eng.Ahmed.Sheded)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AhmedFsheded@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%" />
+</div>
